@@ -1,0 +1,261 @@
+{
+  "dist/addons.js": {
+    "bundled": 9443,
+    "minified": 5181,
+    "gzipped": 1800,
+    "treeshaked": {
+      "rollup": {
+        "code": 4695,
+        "import_statements": 279
+      },
+      "webpack": {
+        "code": 5869
+      }
+    }
+  },
+  "dist/addons.umd.js": {
+    "bundled": 11277,
+    "minified": 5334,
+    "gzipped": 1999
+  },
+  "dist/web.js": {
+    "bundled": 63637,
+    "minified": 30149,
+    "gzipped": 10966,
+    "treeshaked": {
+      "rollup": {
+        "code": 11548,
+        "import_statements": 242
+      },
+      "webpack": {
+        "code": 12710
+      }
+    }
+  },
+  "dist/web.umd.js": {
+    "bundled": 82763,
+    "minified": 32482,
+    "gzipped": 11641
+  },
+  "dist/native.js": {
+    "bundled": 60769,
+    "minified": 28228,
+    "gzipped": 9988,
+    "treeshaked": {
+      "rollup": {
+        "code": 8256,
+        "import_statements": 180
+      },
+      "webpack": {
+        "code": 10858
+      }
+    }
+  },
+  "dist/universal.js": {
+    "bundled": 48206,
+    "minified": 21518,
+    "gzipped": 7173,
+    "treeshaked": {
+      "rollup": {
+        "code": 1235,
+        "import_statements": 128
+      },
+      "webpack": {
+        "code": 4710
+      }
+    }
+  },
+  "dist/konva.js": {
+    "bundled": 59259,
+    "minified": 27373,
+    "gzipped": 9899,
+    "treeshaked": {
+      "rollup": {
+        "code": 9067,
+        "import_statements": 242
+      },
+      "webpack": {
+        "code": 10223
+      }
+    }
+  },
+  "dist/hooks.js": {
+    "bundled": 71628,
+    "minified": 33389,
+    "gzipped": 11200,
+    "treeshaked": {
+      "rollup": {
+        "code": 12806,
+        "import_statements": 362
+      },
+      "webpack": {
+        "code": 14060
+      }
+    }
+  },
+  "dist/hooks.umd.js": {
+    "bundled": 89934,
+    "minified": 35216,
+    "gzipped": 12303
+  },
+  "dist/native-hooks.js": {
+    "bundled": 73025,
+    "minified": 34369,
+    "gzipped": 10627,
+    "treeshaked": {
+      "rollup": {
+        "code": 10032,
+        "import_statements": 345
+      },
+      "webpack": {
+        "code": 25161
+      }
+    }
+  },
+  "dist/web-hooks.js": {
+    "bundled": 71543,
+    "minified": 33114,
+    "gzipped": 11122,
+    "treeshaked": {
+      "rollup": {
+        "code": 12742,
+        "import_statements": 362
+      },
+      "webpack": {
+        "code": 13996
+      }
+    }
+  },
+  "dist/renderprops.js": {
+    "bundled": 66808,
+    "minified": 32936,
+    "gzipped": 11386
+  },
+  "dist/renderprops-addons.js": {
+    "bundled": 8318,
+    "minified": 5069,
+    "gzipped": 1763
+  },
+  "dist/renderprops-addons.umd.js": {
+    "bundled": 11301,
+    "minified": 5358,
+    "gzipped": 2008
+  },
+  "dist/renderprops-native.js": {
+    "bundled": 61377,
+    "minified": 29727,
+    "gzipped": 9935
+  },
+  "dist/renderprops-universal.js": {
+    "bundled": 49098,
+    "minified": 23163,
+    "gzipped": 7213
+  },
+  "dist/renderprops-konva.js": {
+    "bundled": 60187,
+    "minified": 29096,
+    "gzipped": 9921
+  },
+  "dist/web.cjs.js": {
+    "bundled": 71965,
+    "minified": 33864,
+    "gzipped": 11528
+  },
+  "dist/native.cjs.js": {
+    "bundled": 69578,
+    "minified": 32129,
+    "gzipped": 10537
+  },
+  "dist/renderprops.cjs.js": {
+    "bundled": 77403,
+    "minified": 36669,
+    "gzipped": 11910
+  },
+  "dist/renderprops-addons.cjs.js": {
+    "bundled": 9833,
+    "minified": 5495,
+    "gzipped": 1892
+  },
+  "dist/renderprops-native.cjs.js": {
+    "bundled": 72269,
+    "minified": 33553,
+    "gzipped": 10452
+  },
+  "dist/renderprops-universal.cjs.js": {
+    "bundled": 59274,
+    "minified": 26734,
+    "gzipped": 7720
+  },
+  "dist/renderprops-konva.cjs.js": {
+    "bundled": 70433,
+    "minified": 32703,
+    "gzipped": 10429
+  },
+  "dist/universal.cjs.js": {
+    "bundled": 56205,
+    "minified": 25100,
+    "gzipped": 7723
+  },
+  "dist/test.js": {
+    "bundled": 32365,
+    "minified": 14259,
+    "gzipped": 4783,
+    "treeshaked": {
+      "rollup": {
+        "code": 523,
+        "import_statements": 128
+      },
+      "webpack": {
+        "code": 2095
+      }
+    }
+  },
+  "dist/test.cjs.js": {
+    "bundled": 40723,
+    "minified": 17987,
+    "gzipped": 5405
+  },
+  "dist/konva.cjs.js": {
+    "bundled": 67299,
+    "minified": 30986,
+    "gzipped": 10438
+  },
+  "dist/three.js": {
+    "bundled": 59608,
+    "minified": 27340,
+    "gzipped": 9810,
+    "treeshaked": {
+      "rollup": {
+        "code": 10462,
+        "import_statements": 344
+      },
+      "webpack": {
+        "code": 11674
+      }
+    }
+  },
+  "dist/three.cjs.js": {
+    "bundled": 67711,
+    "minified": 31001,
+    "gzipped": 10341
+  },
+  "dist/zdog.js": {
+    "bundled": 60172,
+    "minified": 27561,
+    "gzipped": 9866,
+    "treeshaked": {
+      "rollup": {
+        "code": 10596,
+        "import_statements": 354
+      },
+      "webpack": {
+        "code": 11725
+      }
+    }
+  },
+  "dist/zdog.cjs.js": {
+    "bundled": 68215,
+    "minified": 31162,
+    "gzipped": 10409
+  }
+}
